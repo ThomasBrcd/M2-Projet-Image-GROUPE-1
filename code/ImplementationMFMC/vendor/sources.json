@@ -1,0 +1,13 @@
+{
+  "SimSwap": {
+    "url": "https://github.com/neuralchen/SimSwap",
+    "commit": "bd7b7686a17f41dd11cfcd5d82f7e4c5eb94b780",
+    "local_modifications": false,
+    "used": ["models/fs_networks.py", "models/fs_networks_512.py", "models/arcface_models.py", "parsing_model", "insightface_func/utils/face_align_ffhqandnewarc.py"]
+  },
+  "stylegan2-ada-pytorch": {
+    "url": "https://github.com/NVlabs/stylegan2-ada-pytorch",
+    "commit": "d72cc7d041b42ec8e806021a205ed9349f87c6a4",
+    "local_modifications": false
+  }
+}

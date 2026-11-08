@@ -1,0 +1,15 @@
+.venv*/
+.runtime/
+.tools/
+.cache/
+__pycache__/
+.pytest_cache/
+*.pyc
+models/**
+!models/.gitkeep
+identity_bank/**
+!identity_bank/.gitkeep
+outputs/
+local_config.json
+tests/local/
+tests/integration.local.json

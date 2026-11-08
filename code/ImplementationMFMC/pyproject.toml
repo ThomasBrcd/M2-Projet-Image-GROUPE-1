@@ -1,0 +1,13 @@
+[project]
+name = "faceanon"
+version = "0.1.0"
+description = "Anonymisation locale ciblée avec InsightFace et SimSwap"
+requires-python = ">=3.10,<3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "--basetemp=.cache/pytest"
+markers = ["integration: nécessite les véritables checkpoints et des photographies locales", "gui: nécessite PySide6"]
+
+[tool.ruff]
+line-length = 110

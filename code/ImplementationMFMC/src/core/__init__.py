@@ -1,0 +1,1 @@
+"""Pipeline indépendant de Qt."""

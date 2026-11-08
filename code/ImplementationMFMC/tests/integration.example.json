@@ -1,0 +1,16 @@
+{
+  "reference": "local/reference.jpg",
+  "group": "local/group.jpg",
+  "synthetic_donor": "local/synthetic.png",
+  "synthetic_donor_confirmed": true,
+  "reference_index": 0,
+  "expected_matches": 1,
+  "device": "auto",
+  "match_threshold": 0.45,
+  "candidate_max_similarity": 0.30,
+  "validation_max_similarity": 0.30,
+  "independent_validation_max_similarity": 0.30,
+  "max_attempts": 3,
+  "segmentation": true,
+  "independent_validation": false
+}
