@@ -13,7 +13,7 @@
   paper: "a4",
   margin: (top: 21mm, bottom: 19mm, left: 19mm, right: 19mm),
   numbering: "1 / 1",
-  header: text(size: 8pt, fill: muted)[FaceAnon #h(1fr) Projet M2 · Traitement d’images],
+  header: text(size: 8pt, fill: muted)[FaceAnon #h(1fr) Projet M2 · Projet image],
 )
 #set text(font: "Libertinus Serif", size: 10.5pt, lang: "fr", fill: ink)
 #set par(justify: true, leading: 0.55em)
