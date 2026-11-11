@@ -13,3 +13,6 @@ outputs/
 local_config.json
 tests/local/
 tests/integration.local.json
+.ipynb_checkpoints/
+processed_dataset_512/
+raw_dataset/celeba_hq/
